@@ -1,1 +1,1 @@
-# Hashing
+# Binary Search Tree
